@@ -1,11 +1,14 @@
-ServerArray project
+// ServerArray project \\
 
 Technology Stack
 
-backend:
+BACKEND:
 Java
 Spring
 
-frontend:
+FRONTEND:
 Angular
 PrimeNg
+
+DATABASE:
+Postgres
